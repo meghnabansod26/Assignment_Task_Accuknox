@@ -36,4 +36,8 @@ Steps to locally run the application
 4. Open your web browser and navigate to http://localhost:3000
 
 
+<<<<<<< HEAD
 5. Run `npm run build`  to create a production-ready build.
+=======
+5. Run `npm run build`  to create a production-ready build.
+>>>>>>> 0ac112d91d9a517fde795e8ed921839ad70397a0
