@@ -18,6 +18,7 @@ Charts: Chart.js for dynamic charts within widgets
 Steps to locally run the application
 
 1. Clone the Repository:
+
 git clone <https://github.com/meghnabansod26/Assignment_Task_Accuknox.git>
 
 cd CNAPP-Dashboard
