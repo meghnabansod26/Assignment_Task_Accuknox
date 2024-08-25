@@ -18,20 +18,16 @@ Charts: Chart.js for dynamic charts within widgets
 Steps to locally run the application
 
 1. Clone the Repository:
-
-git clone <your-repo-url>
+git clone <https://github.com/meghnabansod26/Assignment_Task_Accuknox.git>
 cd CNAPP-Dashboard
 
 2. Install Dependencies:
-
 ### npm install
 
 3. Start the Development Server:
-
 ### npm start
 
 4. Open the Application:
-
 Visit [http://localhost:3000] in your web browser.
 
 
