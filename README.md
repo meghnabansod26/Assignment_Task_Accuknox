@@ -14,8 +14,10 @@ Frontend: React, Bootstrap
 Icons: React Icons (FontAwesome, Bootstrap Icons)
 Charts: Chart.js for dynamic charts within widgets
 
-Deployed on Vercel :
-To visit https://assignment-task-accuknox.vercel.app/
+Project Links:
+Deployed on Vercel: [https://assignment-task-accuknox.vercel.app/]
+
+Uploaded on GitHub: [https://github.com/meghnabansod26/Assignment_Task_Accuknox]
 
 
 Steps to locally run the application
