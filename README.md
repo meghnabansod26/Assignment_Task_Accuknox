@@ -14,26 +14,26 @@ Frontend: React, Bootstrap
 Icons: React Icons (FontAwesome, Bootstrap Icons)
 Charts: Chart.js for dynamic charts within widgets
 
+Deployed on Vercel :
+To visit https://assignment-task-accuknox.vercel.app/
+
 
 Steps to locally run the application
 
-1. Clone the Repository:
+1. Clone the repository:
 
-git clone <your-repo-url>
-cd CNAPP-Dashboard
+  git clone https://github.com/meghnabansod26/Assignment_Task_Accuknox.git
 
-2. Install Dependencies:
-
-### npm install
-
-3. Start the Development Server:
-
-### npm start
-
-4. Open the Application:
-
-Visit [http://localhost:3000] in your web browser.
+  cd CNAPP-Dashboard
 
 
+2. Run `npm install` to install dependencies.
 
 
+3. Run `npm start` to start the development server.
+
+
+4. Open your web browser and navigate to http://localhost:3000
+
+
+5. Run `npm run build`  to create a production-ready build.
