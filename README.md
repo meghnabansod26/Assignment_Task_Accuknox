@@ -19,9 +19,9 @@ Steps to locally run the application
 
 1. Clone the repository:
 
-git clone https://github.com/meghnabansod26/Assignment_Task_Accuknox.git
+  git clone https://github.com/meghnabansod26/Assignment_Task_Accuknox.git
 
-cd CNAPP-Dashboard
+  cd CNAPP-Dashboard
 
 
 2. Run `npm install` to install dependencies.
