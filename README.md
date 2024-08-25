@@ -20,6 +20,7 @@ Steps to locally run the application
 1. Clone the repository:
 
 git clone https://github.com/meghnabansod26/Assignment_Task_Accuknox.git
+
 cd CNAPP-Dashboard
 
 
@@ -29,7 +30,7 @@ cd CNAPP-Dashboard
 3. Run `npm start` to start the development server.
 
 
-4. Open your web browser and navigate to [http://localhost:3000.]
+4. Open your web browser and navigate to http://localhost:3000
 
 
 5. Run `npm run build`  to create a production-ready build.
