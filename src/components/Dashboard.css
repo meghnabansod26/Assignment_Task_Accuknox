@@ -1,0 +1,28 @@
+.card {
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.add-widget-button {
+  border: 1px solid rgb(207, 205, 205);
+  padding: 6px;
+  border-radius: 4px;
+  background-color: #f1f4f8 !important;
+  color: rgb(160, 160, 163) !important;
+  font-size: 10px;
+  font-weight: bold;
+}
+.spacing-right {
+  margin-right: 10px;
+}
+
+.three-dot {
+  font-size: 12px;
+  padding: 8px;
+  border: 1px solid rgb(207, 205, 205);
+  color: rgb(160, 160, 163) !important;
+  border-radius: 4px;
+  font-weight: bold;
+}

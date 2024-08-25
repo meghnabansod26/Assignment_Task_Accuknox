@@ -1,0 +1,9 @@
+/* src/styles.css */
+
+.cursor-pointer {
+    cursor: pointer;
+  }
+  
+  .border-dashed {
+    border: 2px dashed #ccc;
+  }

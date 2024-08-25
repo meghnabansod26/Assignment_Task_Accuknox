@@ -1,0 +1,108 @@
+.modal-dialog {
+  max-width: 700px;
+  width: 90%;
+  height: 600px;
+  margin: 2rem auto;
+}
+
+.modal-content {
+  height: 100%;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.modal-header {
+  background-color: #0243a4;
+  color: #fff;
+  padding: 1rem;
+  border-bottom: none;
+  height: 40px;
+}
+
+.modal-title {
+  font-size: 1rem;
+  margin: 0;
+}
+
+.close {
+  color: #fff;
+  opacity: 1;
+  font-size: 1.5rem;
+}
+
+.modal-body {
+  padding: 1.5rem;
+  overflow-y: auto;
+}
+
+.intro-text {
+  font-size: 15px;
+  text-align: left;
+  margin-bottom: 5px;
+  padding-left: 20px;
+  margin-top: 10px;
+}
+
+.tab-container {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #ddd;
+}
+
+.tab {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  font-weight: bold;
+  color: #0243a4;
+  border: 2px solid transparent;
+  font-size: 15px;
+}
+
+.tab.active {
+  color: #0243a4;
+  border-bottom: 2px solid #0243a4;
+}
+
+.tab-content {
+  display: none;
+}
+
+.tab-content.active {
+  display: block;
+}
+
+.form-check {
+  margin-bottom: 0.75rem;
+}
+
+.form-check-input {
+  margin-right: 0.5rem;
+}
+.form-check-label {
+  font-size: 15px;
+}
+
+.modal-footer {
+  padding: 1rem;
+  border-top: none;
+  display: flex;
+  justify-content: flex-end;
+  background-color: #f8f9fa;
+}
+
+.btn-primary {
+  background-color: #0243a4;
+  border: none !important;
+}
+
+.btn-secondary {
+  background-color: #6c757d;
+  border: none;
+}
+
+button.btn.btn-primary {
+  font-size: 15px;
+  background-color: #0243a4;
+  border: none;
+}
